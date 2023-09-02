@@ -3,3 +3,6 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. In deserunt quae et ne
 
 ## History of the Internet
 Internet is very simple and powerful but it is used watch with the man in the middle is very simple but could not have your hair. To be great at anything, you have to work sooo hard
+
+## What is Internet
+Internet is very simple and powerful but it is used watch with the man in the middle is very simple but could not have your hair. To be great at anything, you have to work sooo hard
