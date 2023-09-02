@@ -6,3 +6,6 @@ Internet is very simple and powerful but it is used watch with the man in the mi
 
 ## What is Internet
 Internet is very simple and powerful but it is used watch with the man in the middle is very simple but could not have your hair. To be great at anything, you have to work sooo hard
+
+## How does the Internet works ?
+Internet is very simple and powerful but it is used watch with the man in the middle is very simple but could not have your hair. To be great at anything, you have to work sooo hard
