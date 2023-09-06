@@ -4,10 +4,10 @@
     box-sizing: border-box;
     font-family: 'Cascadia Code PL';
 }
+html{
+    font-size: 62.5%;
+}
 body{
     width: 100vw;
     height: 100vh;
-}
-html{
-    font-size: 62.5%;
 }
