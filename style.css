@@ -4,3 +4,7 @@
     box-sizing: border-box;
     font-family: 'Cascadia Code PL';
 }
+body{
+    width: 100vw;
+    height: 100vh;
+}
